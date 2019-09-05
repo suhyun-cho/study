@@ -1,6 +1,5 @@
-# Study Everyday
+# Study List
 
-## Study List
 * Time Series
 * Applied Predictive Modeling
 * Statistics  
