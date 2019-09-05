@@ -1,4 +1,4 @@
 # study
-portfolio
 
-Let's study everyday 
+Let's study everyday
+ 
