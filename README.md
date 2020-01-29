@@ -12,5 +12,13 @@
 * Chapter12_Discriminant Analysis and Other Linear Classification
 
 > Statistics  
+* Chapter05_Random Variable
+* Chapter06_Sampling Distribution
+* Chapter07_estimation
+* Chapter08_Test
+* Chapter09_Linear-Regression
+* Chapter09_multi-regress-diagnostics
+* Chapter10_ANOVA
+* Chapter12_non-parametric-statistics
 
 > Data-Preprocessing
