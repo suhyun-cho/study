@@ -1,6 +1,9 @@
 # Study List
 
 ### Time Series
+> * ARIMA_monthly data
+> * ARIMA_weekly data
+> * Time-series_reference
 
 ### Applied Predictive Modeling
 > * Chapter03_Data Preprocessing
