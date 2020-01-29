@@ -3,8 +3,7 @@
 > Time Series
 
 ### Applied Predictive Modeling
-> 
-* Chapter03_Data Preprocessing
+> Chapter03_Data Preprocessing
 * Chapter04_Overfitting and ModelTuning
 * Chapter05_Measuring Performance in Regression Models
 * Chapter06_Linear Regression and Its Cousins
