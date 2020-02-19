@@ -26,3 +26,8 @@
 
 ### Data-Preprocessing
 > * 003_aggregation
+> * 004_join
+> * 005_Split
+> * 006_generate
+> * 007_spread
+
