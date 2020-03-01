@@ -30,4 +30,6 @@
 > * 005_Split
 > * 006_generate
 > * 007_spread
+> * 008_number
+> * 009_category
 
